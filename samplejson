@@ -3,24 +3,24 @@
     "id":1,
     "name":"mohan",
     "sal":1200,
-    "add":"sklm"
+    "addr":"sklm"
   },
   {
     "id":2,
     "name":"kris",
     "sal":1000,
-    "add":"vzm"
+    "addr":"vzm"
   },
   {
     "id":3,
     "name":"sam",
     "sal":1500,
-    "add":"vsp"
+    "addr":"vsp"
   },
   {
     "id":4,
     "name":"siri",
     "sal":2000,
-    "add":"hyd"
+    "addr":"hyd"
   }
 ]
