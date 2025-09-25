@@ -28,11 +28,5 @@
     "name":"anil",
     "sal":1500,
     "addr":"chn"
-  },
-  {
-    "id":1,
-    "name":"mohank",
-    "sal":5000,
-    "addr":"sklm"
   }
 ]
