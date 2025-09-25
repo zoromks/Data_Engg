@@ -28,5 +28,11 @@
     "name":"anil",
     "sal":1500,
     "addr":"chn"
+  },
+  {
+    "id":6,
+    "name":"vin",
+    "sal":1800,
+    "addr":"skm"
   }
 ]
