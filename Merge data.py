@@ -31,3 +31,11 @@
 
 # MAGIC %sql
 # MAGIC select * from order_data
+
+# COMMAND ----------
+
+from pyspark.sql.functions import monotonically_increasing_id,spark_partition_id
+
+df=spark.range(20).withColumn('id',monotonically_increasing_id())\
+    .withColumn('sno',spark_partition_id())
+display(df)
